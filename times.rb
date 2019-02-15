@@ -1,5 +1,5 @@
 def using_times(phrase)
-  phrase = ""
+  phrase = "Wingardium Leviosa"
 	7.times do phrase
 	 
 end
